@@ -57,7 +57,7 @@ for idx in relevant_document_indices:
 <h2>Screenshots</h2>
 
 <div align="center">
-  <img src="https://yourrepository.com/semantic-search-gui.png" alt="Semantic Search GUI">
+  <img src="Screenshot 2024-04-18 182835.png" alt="Semantic Search GUI">
 </div>
 
 <h2>Credits</h2>
